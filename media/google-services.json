@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "982485512852",
+    "firebase_url": "https://dintive-default-rtdb.firebaseio.com",
+    "project_id": "dintive",
+    "storage_bucket": "dintive.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982485512852:android:af67e52d86ff8097383a81",
+        "android_client_info": {
+          "package_name": "dintive.ezspa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4GUHE3KrvuuefoAAtsLrzoGShf6FqkO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
